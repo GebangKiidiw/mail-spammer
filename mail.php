@@ -35,9 +35,14 @@ $banner = "
       MMmmm           mmmMM 
                                           
  [+] SURVERYON MAIL SPAMMER [+]
- Coded by  : Revan AR
- Team      : IndoSec
- Github    : https://github.com/revan-ar/
+ Spammer GMAIL Unlimited
+ Mod By      : Gebang Kiidiw
+ Blog        : www.gebangkiidiw.com
+ Youtube     : Gebang Kiidiw
+ Instagram   : @Bang_Joss24
+ Thanks to   : Revan AR
+ Team        : IndoSec
+ Github      : https://github.com/revan-ar/
 ============================================\n";
 sleep(2);
 echo $banner;
